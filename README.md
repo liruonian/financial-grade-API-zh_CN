@@ -1,4 +1,4 @@
-# financial-grade-API-zh_CN
+# Financial-grade-API-zh_CN
 Financial-grade API (FAPI) Final Specifications 中文译版
 
 [Financial Services – Financial-grade API](https://github.com/leemos-xx/financial-grade-API-zh_CN/blob/master/Financial-grade%20API_WD_000.md)
